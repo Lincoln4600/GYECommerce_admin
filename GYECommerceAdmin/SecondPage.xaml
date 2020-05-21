@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="GYECommerceAdmin.SecondPage">
+    <StackLayout VerticalOptions="Center">
+        <!-- Place new controls here -->
+        <Button x:Name="btn_Stock_Prod"
+                Text="Stock de productos"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                Clicked="BtnStockProd"/>
+        <Button x:Name="Btn_pedidos"
+                Text="Pedidos"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" WidthRequest="-1"
+                Clicked="BtnPedidos"/>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,17 @@
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/bin/Release/netstandard2.0/GYECommerceAdmin.deps.json
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/bin/Release/netstandard2.0/GYECommerceAdmin.dll
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/bin/Release/netstandard2.0/ref/GYECommerceAdmin.dll
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/bin/Release/netstandard2.0/GYECommerceAdmin.pdb
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/obj/Release/netstandard2.0/SecondPage.xaml.g.cs
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/obj/Release/netstandard2.0/GYECommerceAdmin.csproj.CoreCompileInputs.cache
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/obj/Release/netstandard2.0/GYECommerceAdmin.AssemblyInfoInputs.cache
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/obj/Release/netstandard2.0/GYECommerceAdmin.AssemblyInfo.cs
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/obj/Release/netstandard2.0/XamlC.stamp
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/obj/Release/netstandard2.0/GYECommerceAdmin.dll
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/obj/Release/netstandard2.0/ref/GYECommerceAdmin.dll
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/obj/Release/netstandard2.0/GYECommerceAdmin.pdb
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/obj/Release/netstandard2.0/GYECommerceAdmin.csprojAssemblyReference.cache
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/obj/Release/netstandard2.0/PedidosPage.xaml.g.cs
+/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin/obj/Release/netstandard2.0/MyPage.xaml.g.cs

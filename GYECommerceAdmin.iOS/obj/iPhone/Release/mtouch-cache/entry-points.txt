@@ -1,0 +1,82 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/lincoln/Projects/GYECommerceAdmin/GYECommerceAdmin.iOS/obj/iPhone/Release/mtouch-cache/1-Link/System.dll

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:local= "clr-namespace:GYECommerceAdmin"
+    x:Class="GYECommerceAdmin.MainPage">
+    <StackLayout Margin="20,35,20,20" VerticalOptions="Center">
+        <Entry x:Name="telefono"
+               Keyboard="Numeric"
+               Placeholder="Introducir número"
+               ClearButtonVisibility="WhileEditing"
+               TranslationX="0"
+               Margin="60,0"
+               VerticalTextAlignment="Center"
+               WidthRequest="-1"
+               HorizontalTextAlignment="Center"/>
+
+        <Entry x:Name="contrasena"
+               IsPassword="true"
+               Placeholder="Contraseña"
+               ClearButtonVisibility="WhileEditing"
+               TranslationX="0"
+               Margin="60,0"
+               VerticalTextAlignment="Center"
+               WidthRequest="-1"
+               HorizontalTextAlignment="Center"/>
+        <ImageButton x:Name="loginButton"
+                     Source="{local:ImageResource GYECommerceAdmin.images.btn_entrar.png}"
+                     HorizontalOptions="Center"
+                     BackgroundColor="Transparent"
+                     Clicked="OnButtonClicked" />
+        <ActivityIndicator  x:Name="waitActivityIndicator"
+                            IsRunning="false"
+                            IsVisible="true"/>
+
+    </StackLayout>
+</ContentPage>
